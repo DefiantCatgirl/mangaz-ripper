@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "async-await-queue": "^2.1.4",
+    "axios": "^1.7.7",
+    "axios-retry": "^4.5.0",
+    "jimp": "^1.6.0",
+    "jsdom": "^25.0.1",
+    "minimist": "^1.2.8",
+    "piscina": "^4.7.0",
+    "sanitize-filename": "^1.6.3",
+    "sharp": "^0.33.5"
+  }
+}
